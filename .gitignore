@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Package managers locks
+pnpm-lock.yaml
+
+# Darwin
+.DS_Store
